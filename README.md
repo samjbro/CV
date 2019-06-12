@@ -1,4 +1,4 @@
-# Sam Broughton - Full-Stack Mid-Level Developer CV
+# Sam Broughton - Full-Stack Developer CV
 ## About me
 
 I'm a full-stack developer looking for an challenging new role in an exciting company. I've spent my career so far developing a broad knowledge base with the aim of gaining a robust overview of the full spectrum of web development. Now that I feel I've (sufficiently) achieved this goal, I want to push my skills to the next level and gain deeper understanding by joining an active and thriving company with a passionate community of developers to learn from and to mentor.
